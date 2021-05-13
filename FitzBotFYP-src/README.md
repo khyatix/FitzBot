@@ -6,7 +6,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com) an
 
 Follow this link to embed web app bot to MS Teams: https://teams.microsoft.com/l/chat/0/0?users=28:9ab741a5-d5a7-41c9-9cea-16f9feeb9974
 
-
+![Image of FitzBot running](https://github.com/khyatix/FitzBot/blob/main/FitzBotFYP-src/fitzbot.png)
 
 
 * [Bot Framework Documentation][80]
