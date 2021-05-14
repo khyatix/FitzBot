@@ -1,6 +1,6 @@
 ﻿# FitzBot 
 
-The ‘Fitz’ IT support chatbot is designed to assist teachers of Fitzalan High School with any IT-related issues. ‘Fitz’ will try to answer all their answers by using the knowledge base which has solutions to known problems. If, however, an issue cannot be resolved then the problem then the user will be directed towards the IT Helpdesk for further assistance. 
+The ‘FitzBot’ IT support chatbot is designed to assist teachers of Fitzalan High School with any IT-related issues. ‘Fitz’ will try to answer all their answers by using the knowledge base which has solutions to known problems. If, however, an issue cannot be resolved then the problem then the user will be directed towards the IT Helpdesk for further assistance. 
 
 This bot has been created using [Bot Framework](https://dev.botframework.com) and the Azure Bot Service, it uses the [QnA Maker Cognitive AI](https://www.qnamaker.ai) service.
 
